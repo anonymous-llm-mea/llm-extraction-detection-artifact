@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*:Zone.Identifier
+.DS_Store
+Thumbs.db
+
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+
+cache/
+outputs/
+outputs_smoke/
+*.npy
+
+# Data are hosted on Hugging Face and should not be committed to the code artifact.
+data/
+
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# Local staging copy for the Hugging Face dataset card.
+hf_dataset_README.md
